@@ -42,7 +42,7 @@ while len(guessed_states) < 50:
 
 
 
-# some test writings for bitbucket
+# some test writings for bitbucket 2
 
 
 
