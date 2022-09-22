@@ -8,4 +8,4 @@ for indx, val in enumerate(liste):
     prevMap[val] = indx
     
 print(prevMap)
-# deneme
+# commit shitz
