@@ -22,3 +22,6 @@ def quick_sort(liste: list):
 listem = [5, 21, 2, 1, 51, 72, 45, 36]
 sonuc = quick_sort(listem)
 print(sonuc)
+import numpy as np
+a = np.array([2,3,4])
+print(a)
