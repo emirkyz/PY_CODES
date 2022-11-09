@@ -12,4 +12,4 @@ with open("./Input/Letters/starting_letter.txt") as letter_file:
         new_letter = letter_contents.replace(PLACEHOLDERR,stripped_name)      
         with open(f"./Output/ReadyToSend/letter_for_{stripped_name}","w") as complete_letter:
             complete_letter.write(new_letter)
-   
+print("Done")
